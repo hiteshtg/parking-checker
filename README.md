@@ -19,4 +19,4 @@ Accuracy of the model is then calculatted using accuracy_score.
 
 This model is then used in a video to calculate the number of available spot in a Car Parking Facility.
 
-/home/hitesh/ksnip_20240528-123804.png
+![Uploading ksnip_20240528-123804.png…]()
